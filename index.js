@@ -1,0 +1,1 @@
+//foreach es para recorrer arrays el for in se invento para recorrer objetos
